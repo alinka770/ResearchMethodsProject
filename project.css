@@ -54,7 +54,10 @@ img.fig {
     padding-left: 10px; /* Отступ слева */
     padding-bottom: 10px; /* Отступ снизу */
 	padding-right: 20px;
-	width: 110px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 10%;
    }
    
 legend {
