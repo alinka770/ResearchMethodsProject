@@ -30,6 +30,7 @@ button{
   box-shadow: 0 -3px rgb(53,167,110) inset;
   transition: 0.2s;  
   width: 1200px;
+  margin-left:5%;
 }
 button:hover { background: rgb(53, 167, 110); }
 button:active {
@@ -38,11 +39,9 @@ button:active {
 }
 
 .group {
-	 width: 75em;
 	 text-align: center; 
-	 margin-left:10%;
-     margin-top: 10%; /* Отступ сверху */
-	 position: absolute;
+	 position: absolute; 
+	 width: 400px;     
 }
 
 h1 {
